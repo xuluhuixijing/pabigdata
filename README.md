@@ -16,4 +16,4 @@
 读者可通过以下三种方式免费在线浏览或下载全部配套资源：
 1. 教材官方云班课“Hadoop大数据原理与应用教材云班课”（邀请码5962412）。
 2. 教材官方GitHub网站https://github.com/xuluhuixijing/pabigdata。
-3. 西安电子科技大学出版社http://www.xduph.com/Pages/BookDetail.aspx?doi=14ddaef4-1200-47a6-a57a-5c5c94f6cdb4（主教材）和http://www.xduph.com/Pages/BookDetail.aspx?doi=cc026081-4cdd-4ed8-b273-d65a0b712753（实验教程）。
+3. 西安电子科技大学出版社http://www.xduph.com/Pages/BookDetail.aspx?doi=14ddaef4-1200-47a6-a57a-5c5c94f6cdb4（主教材），http://www.xduph.com/Pages/BookDetail.aspx?doi=cc026081-4cdd-4ed8-b273-d65a0b712753（实验教程）。
